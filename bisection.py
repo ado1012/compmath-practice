@@ -1,4 +1,4 @@
-# The function is x^3 - x^2 - 10x -8 = 0
+# The function is x^3 - 7*x^2 - 36 = 0
 def func(x):
     return x*x*x + 7*x*x - 36
 
